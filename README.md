@@ -3,9 +3,9 @@ ESP32 GHN with Domoticz controls and ir remote
 
 My goal was: 
 
-Voice control lights/smartplug who are connected to my Domoticz using rainmaker.
+Voice control lights/smartplugs who are connected to my Domoticz using rainmaker.
 
-Notifications send by domoticz to be spoken by googe nest (multiple speakers using http.
+Notifications send by domoticz to be spoken by googe nest (multiple speakers using http).
 
 Voice control a cloned infra red remote controll signal.
 
